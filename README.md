@@ -27,3 +27,7 @@ This project performs basic arithmetic operations with a modern UI design.
 ---
 
 ## 📁 Project Structure
+project-folder/
+│── index.html  
+│── style.css  
+│── script.js
